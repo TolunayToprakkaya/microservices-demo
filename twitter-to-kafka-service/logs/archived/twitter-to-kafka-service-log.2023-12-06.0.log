@@ -1,0 +1,43 @@
+2023-12-06 19:22:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21 with PID 12936 (C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo\twitter-to-kafka-service\target\classes started by tolun in C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo)
+2023-12-06 19:22:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-12-06 19:22:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.542 seconds (process running for 1.395)
+2023-12-06 19:22:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-12-06 19:22:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-06 19:22:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-12-06 19:22:12 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-06 19:22:13 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text text printing is is printing typesetting Microservices and typesetting printing industry and
+2023-12-06 19:22:23 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text printing dummy simply dummy industry Ipsum Lorem text Java the text is printing text is
+2023-12-06 19:22:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21 with PID 1804 (C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo\twitter-to-kafka-service\target\classes started by tolun in C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo)
+2023-12-06 19:22:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-12-06 19:22:35 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.439 seconds (process running for 0.812)
+2023-12-06 19:22:35 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-12-06 19:22:35 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-06 19:22:35 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-12-06 19:22:35 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-06 19:22:35 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text of Ipsum dummy Microservices industry typesetting
+2023-12-06 19:22:45 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text printing simply printing Lorem Elasticsearch printing is is
+2023-12-06 19:22:55 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem dummy typesetting Microservices and and
+2023-12-06 19:23:05 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the simply the printing simply Spring the is dummy
+2023-12-06 19:23:15 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem typesetting of printing typesetting Microservices the industry Lorem text
+2023-12-06 19:23:25 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text is industry industry of typesetting Microservices of and dummy
+2023-12-06 19:23:35 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry is Lorem the and typesetting Elasticsearch typesetting text text industry industry
+2023-12-06 19:23:45 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem of of simply printing Kafka Ipsum Lorem simply Ipsum
+2023-12-06 19:23:55 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the and dummy Kafka printing text
+2023-12-06 19:24:05 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text is simply text industry Microservices is and text
+2023-12-06 19:24:15 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem typesetting industry text simply printing Microservices the Ipsum is text
+2023-12-06 19:24:25 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the typesetting text dummy Microservices of of
+2023-12-06 19:28:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21 with PID 22368 (C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo\twitter-to-kafka-service\target\classes started by tolun in C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo)
+2023-12-06 19:28:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-12-06 19:28:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.435 seconds (process running for 0.804)
+2023-12-06 19:28:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-12-06 19:28:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-06 19:28:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-12-06 19:28:57 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-06 19:29:56 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text typesetting industry the text Kafka typesetting and
+2023-12-06 19:30:25 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text text text of Ipsum and dummy Kafka the of and is typesetting
+2023-12-06 19:30:48 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text and Lorem of printing dummy text typesetting Ipsum Microservices industry printing of dummy dummy dummy dummy
+2023-12-06 19:31:24 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text of dummy and simply printing of dummy Java and of Ipsum Lorem Lorem dummy
+2023-12-06 19:32:50 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text typesetting Ipsum typesetting industry dummy Spring the and and
+2023-12-06 19:33:09 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text is text and typesetting is printing printing Java printing is the Lorem the
+2023-12-06 19:33:19 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dummy of text and text is of industry Spring industry of industry Lorem is Lorem text
+2023-12-06 19:33:29 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem typesetting the printing Lorem text Kafka the Lorem and industry printing

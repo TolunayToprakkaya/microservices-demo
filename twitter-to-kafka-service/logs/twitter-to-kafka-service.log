@@ -1,0 +1,58 @@
+2023-12-07 19:12:45 [main] INFO  c.m.d.c.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21 with PID 16572 (C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo\twitter-to-kafka-service\target\classes started by tolun in C:\Users\tolun\OneDrive\Masaüstü\workspace\microservices-demo)
+2023-12-07 19:12:45 [main] INFO  c.m.d.c.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-12-07 19:12:45 [main] INFO  c.m.d.c.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.567 seconds (process running for 1.433)
+2023-12-07 19:12:47 [main] INFO  c.m.d.c.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-12-07 19:12:47 [main] INFO  c.m.d.c.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-07 19:12:47 [main] INFO  c.m.d.c.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-12-07 19:12:47 [main] INFO  c.m.d.c.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-12-07 19:12:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text simply is simply Spring simply text
+2023-12-07 19:12:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dummy of of Kafka Lorem and
+2023-12-07 19:13:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dummy dummy the simply the printing and Microservices Lorem typesetting typesetting industry simply
+2023-12-07 19:13:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the typesetting typesetting industry Ipsum of typesetting Ipsum Kafka of is simply Ipsum is simply
+2023-12-07 19:13:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dummy Ipsum Ipsum printing Spring industry of and
+2023-12-07 19:13:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry Ipsum dummy of Lorem industry Elasticsearch is the is typesetting
+2023-12-07 19:13:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text simply of text and text Lorem text Elasticsearch printing text Ipsum dummy is Ipsum
+2023-12-07 19:13:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text and typesetting simply of dummy Kafka is simply of
+2023-12-07 19:14:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Ipsum Ipsum printing printing simply industry dummy Microservices Lorem printing of and Ipsum typesetting
+2023-12-07 19:14:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text and Lorem Lorem and typesetting text Java text text Ipsum dummy is
+2023-12-07 19:14:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry the the of typesetting the Spring industry Ipsum of simply
+2023-12-07 19:14:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text simply typesetting typesetting the dummy is and the Elasticsearch the typesetting Lorem industry of dummy industry
+2023-12-07 19:14:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry of the and dummy printing Kafka Ipsum the printing is dummy
+2023-12-07 19:14:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry of text typesetting the the dummy Ipsum Elasticsearch dummy printing Ipsum Ipsum Ipsum Lorem Ipsum
+2023-12-07 19:15:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dummy is of printing Ipsum typesetting Java is Ipsum industry Ipsum industry
+2023-12-07 19:15:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Ipsum of text and Spring Ipsum dummy
+2023-12-07 19:15:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry simply is printing and Java and and and text
+2023-12-07 19:15:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text printing is and dummy printing dummy Kafka printing industry Lorem dummy
+2023-12-07 19:15:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the industry industry printing dummy Ipsum is Kafka and text Lorem dummy Ipsum
+2023-12-07 19:15:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Ipsum and simply Ipsum dummy typesetting Microservices is text of of Ipsum
+2023-12-07 19:16:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text simply and the Ipsum Ipsum printing typesetting of Java Ipsum typesetting is dummy typesetting Lorem dummy
+2023-12-07 19:16:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text and text of the Ipsum printing dummy industry Java text typesetting of industry the of
+2023-12-07 19:16:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text simply text dummy and Microservices typesetting industry
+2023-12-07 19:16:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry the Lorem text Elasticsearch and industry the
+2023-12-07 19:16:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text printing simply Ipsum Ipsum Elasticsearch the printing of
+2023-12-07 19:16:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry the text Ipsum printing text typesetting typesetting Elasticsearch industry Ipsum the of the the
+2023-12-07 19:17:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Ipsum Ipsum of and of Elasticsearch printing industry industry
+2023-12-07 19:17:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem simply simply simply the Elasticsearch Lorem simply of simply
+2023-12-07 19:17:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text and text Ipsum and dummy Kafka Ipsum simply Lorem
+2023-12-07 19:17:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text simply Ipsum and Ipsum the the the Java simply of Lorem of dummy
+2023-12-07 19:17:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the dummy typesetting the dummy the typesetting Microservices Ipsum printing the Lorem dummy typesetting
+2023-12-07 19:17:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text typesetting typesetting text industry simply and Ipsum Microservices simply Ipsum the Lorem is
+2023-12-07 19:18:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text is simply is and dummy dummy text printing Elasticsearch dummy and Ipsum Lorem Lorem Lorem industry
+2023-12-07 19:18:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text and industry is Ipsum the simply Spring Lorem Ipsum of Ipsum industry
+2023-12-07 19:18:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dummy industry of Microservices is industry
+2023-12-07 19:18:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text typesetting and text text simply simply Kafka printing industry typesetting Ipsum
+2023-12-07 19:18:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry the the text Spring typesetting dummy Lorem
+2023-12-07 19:18:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text text printing printing printing industry Spring Lorem printing typesetting and
+2023-12-07 19:19:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the printing printing text of simply Lorem Kafka Ipsum is is Ipsum of
+2023-12-07 19:19:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text is the dummy printing Spring text the
+2023-12-07 19:19:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text text printing simply printing is Kafka Ipsum Ipsum and
+2023-12-07 19:19:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text text and typesetting Ipsum text Spring typesetting Ipsum is industry
+2023-12-07 19:19:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dummy is the is Microservices simply printing printing
+2023-12-07 19:19:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem industry dummy of typesetting Java industry dummy text
+2023-12-07 19:20:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text typesetting typesetting Ipsum text and text Lorem Spring dummy text and Ipsum Lorem
+2023-12-07 19:20:18 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text printing printing the industry Java is the
+2023-12-07 19:20:28 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry is typesetting simply of Microservices printing industry printing
+2023-12-07 19:20:38 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text text is of the of Java simply simply is
+2023-12-07 19:20:48 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text industry is of is is printing typesetting and Microservices industry of is the printing typesetting
+2023-12-07 19:20:58 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text the industry the printing the text Lorem is Kafka and dummy text typesetting industry text
+2023-12-07 19:21:08 [pool-2-thread-1] INFO  c.m.d.c.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text printing simply of Lorem Microservices text typesetting
